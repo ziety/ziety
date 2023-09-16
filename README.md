@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ray</h1>
 <h3 align="center">A passionate Go Developer from Netherlands</h3>
-<img align="right" alt="Coding" width="400" src="https://gifyu.com/image/S4mqt">
+<img align="right" alt="Coding" width="400" src="https://gifyu.com/image/S4mqt](https://s11.gifyu.com/images/S4mqt.gif">
 - ⛓️ I’m currently working on **Blockchain**
 
 - 🖥️ I’m currently learning **Go**
