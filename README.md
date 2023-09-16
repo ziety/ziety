@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ray</h1>
+<h1 align="center">Hi there, I'm Ray! 👋</h1>
 <h3 align="center">A passionate Go Developer from Netherlands</h3>
 
 - ⛓️ I’m currently working on **Blockchain**
